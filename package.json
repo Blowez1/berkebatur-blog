@@ -9,9 +9,11 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "axios": "^0.21.4",
     "core-js": "^3.17.3",
     "node-sass": "^6.0.1",
     "nuxt": "^2.15.7",
+    "sass-loader": "^10",
     "vuex": "^3.6.2"
   }
 }

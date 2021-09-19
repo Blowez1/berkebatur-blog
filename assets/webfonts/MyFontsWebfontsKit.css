@@ -1,0 +1,180 @@
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3e928a");
+  
+@font-face {
+  font-family: "Izmir-HairlineItalic";
+  src: url('webFonts/IzmirHairlineItalic/font.woff2') format('woff2'), url('webFonts/IzmirHairlineItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Izmir-ThinItalic";
+  src: url('webFonts/IzmirThinItalic/font.woff2') format('woff2'), url('webFonts/IzmirThinItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Izmir-Thin";
+  src: url('webFonts/IzmirThin/font.woff2') format('woff2'), url('webFonts/IzmirThin/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Izmir-Extralight";
+  src: url('webFonts/IzmirExtralight/font.woff2') format('woff2'), url('webFonts/IzmirExtralight/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Izmir-Hairline";
+  src: url('webFonts/IzmirHairline/font.woff2') format('woff2'), url('webFonts/IzmirHairline/font.woff') format('woff');
+}
+@font-face {
+  font-family: "IzmirNarrow-BlackItalic";
+  src: url('webFonts/IzmirNarrowBlackItalic/font.woff2') format('woff2'), url('webFonts/IzmirNarrowBlackItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "IzmirNarrow-Black";
+  src: url('webFonts/IzmirNarrowBlack/font.woff2') format('woff2'), url('webFonts/IzmirNarrowBlack/font.woff') format('woff');
+}
+@font-face {
+  font-family: "IzmirNarrow-Heavy";
+  src: url('webFonts/IzmirNarrowHeavy/font.woff2') format('woff2'), url('webFonts/IzmirNarrowHeavy/font.woff') format('woff');
+}
+@font-face {
+  font-family: "IzmirNarrow-ExtraboldItalic";
+  src: url('webFonts/IzmirNarrowExtraboldItalic/font.woff2') format('woff2'), url('webFonts/IzmirNarrowExtraboldItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "IzmirNarrow-HeavyItalic";
+  src: url('webFonts/IzmirNarrowHeavyItalic/font.woff2') format('woff2'), url('webFonts/IzmirNarrowHeavyItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "IzmirNarrow-Extrabold";
+  src: url('webFonts/IzmirNarrowExtrabold/font.woff2') format('woff2'), url('webFonts/IzmirNarrowExtrabold/font.woff') format('woff');
+}
+@font-face {
+  font-family: "IzmirNarrow-SemiboldItalic";
+  src: url('webFonts/IzmirNarrowSemiboldItalic/font.woff2') format('woff2'), url('webFonts/IzmirNarrowSemiboldItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "IzmirNarrow-BoldItalic";
+  src: url('webFonts/IzmirNarrowBoldItalic/font.woff2') format('woff2'), url('webFonts/IzmirNarrowBoldItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "IzmirNarrow-Semibold";
+  src: url('webFonts/IzmirNarrowSemibold/font.woff2') format('woff2'), url('webFonts/IzmirNarrowSemibold/font.woff') format('woff');
+}
+@font-face {
+  font-family: "IzmirNarrow-Medium";
+  src: url('webFonts/IzmirNarrowMedium/font.woff2') format('woff2'), url('webFonts/IzmirNarrowMedium/font.woff') format('woff');
+}
+@font-face {
+  font-family: "IzmirNarrow-RegularItalic";
+  src: url('webFonts/IzmirNarrowRegularItalic/font.woff2') format('woff2'), url('webFonts/IzmirNarrowRegularItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "IzmirNarrow-MediumItalic";
+  src: url('webFonts/IzmirNarrowMediumItalic/font.woff2') format('woff2'), url('webFonts/IzmirNarrowMediumItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "IzmirNarrow-Regular";
+  src: url('webFonts/IzmirNarrowRegular/font.woff2') format('woff2'), url('webFonts/IzmirNarrowRegular/font.woff') format('woff');
+}
+@font-face {
+  font-family: "IzmirNarrow-Bold";
+  src: url('webFonts/IzmirNarrowBold/font.woff2') format('woff2'), url('webFonts/IzmirNarrowBold/font.woff') format('woff');
+}
+@font-face {
+  font-family: "IzmirNarrow-LightItalic";
+  src: url('webFonts/IzmirNarrowLightItalic/font.woff2') format('woff2'), url('webFonts/IzmirNarrowLightItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "IzmirNarrow-ThinItalic";
+  src: url('webFonts/IzmirNarrowThinItalic/font.woff2') format('woff2'), url('webFonts/IzmirNarrowThinItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "IzmirNarrow-Light";
+  src: url('webFonts/IzmirNarrowLight/font.woff2') format('woff2'), url('webFonts/IzmirNarrowLight/font.woff') format('woff');
+}
+@font-face {
+  font-family: "IzmirNarrow-Extralight";
+  src: url('webFonts/IzmirNarrowExtralight/font.woff2') format('woff2'), url('webFonts/IzmirNarrowExtralight/font.woff') format('woff');
+}
+@font-face {
+  font-family: "IzmirNarrow-HairlineItalic";
+  src: url('webFonts/IzmirNarrowHairlineItalic/font.woff2') format('woff2'), url('webFonts/IzmirNarrowHairlineItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "IzmirNarrow-Hairline";
+  src: url('webFonts/IzmirNarrowHairline/font.woff2') format('woff2'), url('webFonts/IzmirNarrowHairline/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Izmir-BlackItalic";
+  src: url('webFonts/IzmirBlackItalic/font.woff2') format('woff2'), url('webFonts/IzmirBlackItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "IzmirNarrow-ExtralightItalic";
+  src: url('webFonts/IzmirNarrowExtralightItalic/font.woff2') format('woff2'), url('webFonts/IzmirNarrowExtralightItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Izmir-HeavyItalic";
+  src: url('webFonts/IzmirHeavyItalic/font.woff2') format('woff2'), url('webFonts/IzmirHeavyItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Izmir-Black";
+  src: url('webFonts/IzmirBlack/font.woff2') format('woff2'), url('webFonts/IzmirBlack/font.woff') format('woff');
+}
+@font-face {
+  font-family: "IzmirNarrow-Thin";
+  src: url('webFonts/IzmirNarrowThin/font.woff2') format('woff2'), url('webFonts/IzmirNarrowThin/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Izmir-Heavy";
+  src: url('webFonts/IzmirHeavy/font.woff2') format('woff2'), url('webFonts/IzmirHeavy/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Izmir-BoldItalic";
+  src: url('webFonts/IzmirBoldItalic/font.woff2') format('woff2'), url('webFonts/IzmirBoldItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Izmir-Extrabold";
+  src: url('webFonts/IzmirExtrabold/font.woff2') format('woff2'), url('webFonts/IzmirExtrabold/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Izmir-ExtraboldItalic";
+  src: url('webFonts/IzmirExtraboldItalic/font.woff2') format('woff2'), url('webFonts/IzmirExtraboldItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Izmir-Bold";
+  src: url('webFonts/IzmirBold/font.woff2') format('woff2'), url('webFonts/IzmirBold/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Izmir-MediumItalic";
+  src: url('webFonts/IzmirMediumItalic/font.woff2') format('woff2'), url('webFonts/IzmirMediumItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Izmir-SemiboldItalic";
+  src: url('webFonts/IzmirSemiboldItalic/font.woff2') format('woff2'), url('webFonts/IzmirSemiboldItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Izmir-Medium";
+  src: url('webFonts/IzmirMedium/font.woff2') format('woff2'), url('webFonts/IzmirMedium/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Izmir-Semibold";
+  src: url('webFonts/IzmirSemibold/font.woff2') format('woff2'), url('webFonts/IzmirSemibold/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Izmir-LightItalic";
+  src: url('webFonts/IzmirLightItalic/font.woff2') format('woff2'), url('webFonts/IzmirLightItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Izmir-RegularItalic";
+  src: url('webFonts/IzmirRegularItalic/font.woff2') format('woff2'), url('webFonts/IzmirRegularItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Izmir-ExtralightItalic";
+  src: url('webFonts/IzmirExtralightItalic/font.woff2') format('woff2'), url('webFonts/IzmirExtralightItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Izmir-Regular";
+  src: url('webFonts/IzmirRegular/font.woff2') format('woff2'), url('webFonts/IzmirRegular/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Izmir-Light";
+  src: url('webFonts/IzmirLight/font.woff2') format('woff2'), url('webFonts/IzmirLight/font.woff') format('woff');
+}
+

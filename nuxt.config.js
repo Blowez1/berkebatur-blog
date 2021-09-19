@@ -34,6 +34,8 @@ export default {
   },
 
   css: [
+    '@/assets/boostrap/bootstrap.min.css',
+    '@/assets/webfonts/MyFontsWebfontsKit.css',
     '@/assets/scss/main.scss'
   ],
 

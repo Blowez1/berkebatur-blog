@@ -1,3 +1,46 @@
+@import '/assets/scss/variables';
+
 body {
-    background-color: #fff;
+    font-family: 'Izmir-Regular';
+    color: $primary-color;
+}
+
+.content {
+    height: 100vh;
+}
+
+.section--title {
+    font-size: 1.75rem;
+    font-family: 'Izmir-SemiBold';
+    position: relative;
+    display: inline-block;
+
+    &::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        bottom: -8px;
+        width: 30%;
+        height: 3px;
+        background-color: $primary-color;
+    }
+}
+
+.section-m-top {
+    margin-top: 45px;
+}
+
+footer {
+    a {
+        color: $secondary-color;
+        text-decoration: none;
+        fill: $secondary-color;
+
+        &:hover {
+            color: $primary-color;
+            fill: $primary-color;
+        }
+    }
+
+    padding-block: 14px;
 }
