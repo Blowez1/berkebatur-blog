@@ -1,8 +1,7 @@
-
 const desc = ""
 
 export default {
-  
+
   head: {
     titleTemplate: '%s - Berke Batur Blog',
     title: 'Berke Batur Blog',
@@ -27,14 +26,18 @@ export default {
       }
     ],
     link: [{
-      rel: 'icon',
-      type: 'image/x-icon',
-      href: '/favicon.png'
-    }]
+        rel: 'icon',
+        type: 'image/x-icon',
+        href: '/favicon.png'
+      },
+      {
+        rel: 'stylesheet',
+        href: 'https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css'
+      }
+    ]
   },
 
   css: [
-    '@/assets/boostrap/bootstrap.min.css',
     '@/assets/webfonts/MyFontsWebfontsKit.css',
     '@/assets/scss/main.scss'
   ],
@@ -46,11 +49,10 @@ export default {
   buildModules: [],
 
   loading: {
-    color: '#CD2027',
-    height: '4px'
+    color: '#707070'
   },
 
-  modules: [],
+  modules: ['@nuxtjs/axios'],
 
   build: {}
 }

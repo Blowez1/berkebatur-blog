@@ -16,12 +16,7 @@
 </template>
 <script>
 export default {
-  layout: "blank",
-  data() {
-    return {
-      posts: [{ id: 1, name: "Ahmet" }],
-    };
-  },
+  layout: "blank"
 };
 </script>
 <style lang="scss" scoped>

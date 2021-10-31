@@ -1,6 +1,6 @@
 <template>
   <footer class="d-flex align-items-center justify-content-between">
-    <a href="https://berkebatur.com">berkebatur.com</a>
+    <a target="_BLANK" href="https://berkebatur.com">berkebatur.com</a>
     <a target="_BLANK" href="https://github.com/Blowez1"
       ><svg height="32" viewBox="0 0 16 16" width="32">
         <path
